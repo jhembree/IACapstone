@@ -27,7 +27,7 @@ As a **healthcare provider**, I want to **isolate identifying information from o
 
 As an **enterprise user**, I want to **provide an isolated environment from production systems** so that I can **safely perform malware analysis**.
 
-As a **corperation**, I want to **run multiple virtual systems on the same hardware** in order to **reduce cost and space requirements**.
+As a **corporation**, I want to **run multiple virtual systems on the same hardware** in order to **reduce cost and space requirements**.
 
 ## Use Case Diagram
 
