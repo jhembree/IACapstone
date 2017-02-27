@@ -5,6 +5,8 @@ Hypervisor Security Assessment
 
 # Project Timeline
 
+![Gantt Chart](https://github.com/jhembree/IACapstone/blob/master/Gantt%20Chart.PNG)
+
 # Risks
 
 |Risk Name (Value)| Impact | Likelihood | Description |
