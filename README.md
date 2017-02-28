@@ -60,7 +60,7 @@ Acceptance Criteria:
 
 ## Use Case Diagram
 
-![Use Case Diagram](https://www.lucidchart.com/documents/edit/f0f7560f-db66-4d11-9ca7-3bdb4cb0d108#)
+[Use Case Diagram](https://www.lucidchart.com/documents/edit/f0f7560f-db66-4d11-9ca7-3bdb4cb0d108#)
 
 # Resources Needed
 
