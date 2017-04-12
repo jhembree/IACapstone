@@ -74,3 +74,12 @@ Acceptance Criteria:
 # First Sprint
 
 [Trello Board](https://trello.com/b/2b07xTJx/project-requirement-elicitation)
+
+# Architectural Digaram
+[Architectural Diagram](https://www.lucidchart.com/documents/edit/d78440fd-9738-45a1-834a-8bcae99f6db7)
+
+# Activity Diagram
+Given the user stories for Cloud Service Providers, enterprise users, and corporations are focused on the ability to run multiple systems on the same hardware the below has been included as an activity diagram for these cases.
+[Activity Diagram](https://www.lucidchart.com/documents/edit/4fd0973d-98e7-42b5-8147-f9958b65124e)
+
+# User Story Realization
