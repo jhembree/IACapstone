@@ -80,9 +80,13 @@ Acceptance Criteria:
 
 # Activity Diagram
 [Running Multiple Hosts](https://www.lucidchart.com/documents/edit/4fd0973d-98e7-42b5-8147-f9958b65124e)
+
 [Resource Isolation](https://www.lucidchart.com/documents/edit/7af40024-f6ee-4d14-99c1-07de2381a616#)
+
 [Memory Allocation](https://www.lucidchart.com/documents/edit/589fdd95-db19-4b26-ba88-af64aa795add)
+
 [Memory Management](https://www.lucidchart.com/documents/edit/0ad002da-db5b-4b1d-9672-c4650f6ff46f)
+
 [Network Bridging](https://www.lucidchart.com/documents/edit/ae99789e-141d-4d51-87d2-742b43d467c4)
 
 # User Story Realization
